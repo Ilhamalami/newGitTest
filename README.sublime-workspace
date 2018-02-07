@@ -1,0 +1,236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"black"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"p",
+				"println"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"sp",
+				"sparkConf"
+			],
+			[
+				"Java",
+				"JavaSparkContext"
+			],
+			[
+				"Spark",
+				"SparkConf"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"ge",
+				"getKey"
+			],
+			[
+				"o",
+				"objectSummary"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/iihamalalmi/Downloads/MachineLearningAlgorithms_Code/Chapter04/2multiple_linear_regression.py",
+		"/Users/iihamalalmi/Desktop/mystyle.css",
+		"/Users/iihamalalmi/Desktop/training.html",
+		"/Users/iihamalalmi/Desktop/senior-project/Main.java",
+		"/Users/iihamalalmi/Desktop/senior-project/s3.java",
+		"/Users/iihamalalmi/Desktop/senior-project/NGramJob.java",
+		"/Users/iihamalalmi/Desktop/senior-project/sparkT.java",
+		"/Users/iihamalalmi/Desktop/senior-project/lateest-spark-version.java",
+		"/Users/iihamalalmi/Desktop/lateest-spark-version.java",
+		"/Users/iihamalalmi/Desktop/Main.java",
+		"/Users/iihamalalmi/Desktop/SparkContextFactory.java",
+		"/Users/iihamalalmi/Desktop/NGramJob.java",
+		"/Users/iihamalalmi/Desktop/create HDFS",
+		"/Users/iihamalalmi/Desktop/running the resulting jar",
+		"/Users/iihamalalmi/Desktop/Sprk",
+		"/Users/iihamalalmi/Desktop/package com.malsolo.spark.examples;",
+		"/usr/local/Cellar/apache-spark/1.6.0/pom.xml",
+		"/Users/iihamalalmi/Desktop/spark-version",
+		"/usr/local/Cellar/apache-spark/1.6.0/logging to the spark cluster",
+		"/Users/iihamalalmi/Desktop/SparkConf conf = new SparkConf().setMaster(\"local[",
+		"/Users/iihamalalmi/Desktop/<groupId>org.apache.hadoop<:groupId>",
+		"/Users/iihamalalmi/Desktop/SimpleApp.java ",
+		"/Users/iihamalalmi/Desktop/<groupId>org.apache.spark<:groupId>",
+		"/Users/iihamalalmi/Desktop/s3.java",
+		"/Users/iihamalalmi/Desktop/sparkT.java",
+		"/Users/iihamalalmi/Downloads/WordAnalysis/src/WordAnalysis.java",
+		"/Users/iihamalalmi/Desktop/public void call (Tuple4 < String, String, String,",
+		"/Users/iihamalalmi/Desktop/my 2 sample input datasets"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
